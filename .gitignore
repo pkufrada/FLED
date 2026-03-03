@@ -1,0 +1,14 @@
+# MATLAB autosave files
+*.asv
+
+# MATLAB temporary files
+*.m~
+*.mex*
+*.mlappinstall
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MATLAB output folders (optional)
+results_*
